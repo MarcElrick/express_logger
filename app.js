@@ -1,9 +1,10 @@
 import express from "express";
 import ip from "ip";
 import fs from "fs";
-import { type } from "os";
+import cors from "cors";
 
 const app = express();
+app.use(cors());
 const port = 3000;
 const filename = "log.json";
 
