@@ -1,29 +1,5 @@
 {
   "logs": {
-    "null": null,
-    "2022-01-17T15:21:30.408Z": "[]",
-    "2022-01-17T15:21:31.243Z": "[]",
-    "2022-01-17T15:21:34.627Z": "[]",
-    "2022-01-17T15:21:40.228Z": "[]",
-    "2022-01-17T15:21:40.636Z": "[]",
-    "2022-01-17T15:21:43.349Z": "[]",
-    "2022-01-17T15:21:44.054Z": "[]",
-    "2022-01-17T15:21:44.258Z": "[]",
-    "2022-01-17T15:21:44.430Z": "[]",
-    "2022-01-17T15:21:44.574Z": "[]",
-    "2022-01-17T15:21:44.736Z": "[]",
-    "2022-01-17T15:21:44.880Z": "[]",
-    "2022-01-17T15:21:45.037Z": "[{\"userPassword\":[0,1,2,3,4,5,-1,-1,-1],\"enteredPassword\":[0,1,2,3,4,5,-1,-1,-1],\"startTime\":1642432906864,\"endTime\":1642432908423,\"elapsedTimeInMilliseconds\":1559,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"SUCCESS\"},{\"userPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"enteredPassword\":[0,1,2,3,4,5,-1,-1,-1],\"endTime\":1642432910065,\"elapsedTimeInMilliseconds\":null,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"ABORTED\"}]",
-    "2022-01-17T15:24:20.135Z": "[]",
-    "2022-01-17T15:24:21.346Z": "[]",
-    "2022-01-17T15:24:21.880Z": "[]",
-    "2022-01-17T15:24:22.276Z": "[]",
-    "2022-01-17T15:24:22.638Z": "[]",
-    "2022-01-17T15:24:22.979Z": "[]",
-    "2022-01-17T15:24:23.349Z": "[]",
-    "2022-01-17T15:24:23.705Z": "[]",
-    "2022-01-17T15:24:24.009Z": "[]",
-    "2022-01-17T15:24:24.386Z": "[]",
-    "2022-01-17T15:24:24.609Z": "[]"
+    "2022-01-17T15:55:24.997Z": "[{\"userPassword\":[1,2,3,4],\"enteredPassword\":[1,2,3,4],\"startTime\":1642434944045,\"endTime\":1642434945115,\"elapsedTimeInMilliseconds\":1070,\"method\":\"PIN\",\"numTicks\":null,\"endState\":\"SUCCESS\"},{\"userPassword\":[6,2,5,3],\"enteredPassword\":[],\"endTime\":1642434947178,\"elapsedTimeInMilliseconds\":null,\"method\":\"PIN\",\"numTicks\":null,\"endState\":\"ABORTED\"},{\"userPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"enteredPassword\":[0,1,2,3,4,5,-1,-1,-1],\"startTime\":1642434949286,\"endTime\":1642434950561,\"elapsedTimeInMilliseconds\":1275,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"FAILURE\"},{\"userPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"enteredPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"startTime\":1642434953979,\"endTime\":1642434954633,\"elapsedTimeInMilliseconds\":654,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"SUCCESS\"},{\"userPassword\":[0,-1,-1,1,-1,-1,2,-1,-1],\"enteredPassword\":[0,-1,-1,1,-1,-1,2,-1,-1],\"startTime\":1642434956264,\"endTime\":1642434956647,\"elapsedTimeInMilliseconds\":383,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"SUCCESS\"},{\"userPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"enteredPassword\":[-1,-1,-1,0,1,2,5,4,3],\"startTime\":1642434960042,\"endTime\":1642434961077,\"elapsedTimeInMilliseconds\":1035,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"FAILURE\"},{\"userPassword\":[0,1,2,-1,-1,3,-1,-1,-1],\"enteredPassword\":[-1,-1,-1,0,1,2,5,4,3],\"endTime\":1642434962467,\"elapsedTimeInMilliseconds\":null,\"method\":\"PATTERN\",\"numTicks\":null,\"endState\":\"ABORTED\"}]"
   }
 }
