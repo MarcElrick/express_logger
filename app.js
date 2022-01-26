@@ -3,7 +3,7 @@ import fs from "fs";
 
 const filename = "log.json";
 
-const server = new WebSocketServer({ port: 9000 });
+const server = new WebSocketServer({ port: process.env.PORT || 5000 });
 server.on("connection", (socket) => {
   console.log("connection");
 
